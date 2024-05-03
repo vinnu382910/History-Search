@@ -1,0 +1,24 @@
+.item-cont2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 20px;
+  cursor: pointer;
+}
+
+.item-info-cont {
+  width: 800px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.delete-button {
+  background-color: transparent;
+  border-color: transparent;
+  outline: none;
+}
